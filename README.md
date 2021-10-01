@@ -23,7 +23,7 @@
 
 ```bash
 > git clone https://github.com/TnT1810/HAMBOT3
-> cd kurr-X-trash
+> cd HAMBOT3
 > npm i
 ```
 ### For termux users before running the above command write this command
