@@ -22,7 +22,7 @@
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/KurrXd/kurr-X-trash
+> git clone https://github.com/TnT1810/HAMBOT3
 > cd kurr-X-trash
 > npm i
 ```
@@ -49,7 +49,7 @@ after start it you need to scan the qr
 ### Contact me
 
 
-- [WHATSAPP](http://wa.me/6281220670449)
+- [WHATSAPP](http://wa.me/6283861205123)
 - [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/EymjfVUattCJSGg58WPvrd)
 
 
